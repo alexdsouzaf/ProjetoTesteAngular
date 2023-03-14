@@ -1,5 +1,9 @@
 # ProjetoTeste
 
+---------------------------------------------------
+É O README DE QUALQUER NOVO PROJETO CRIADO EM ANGULAR
+--------------------------------------------------
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
 
 ## Development server
